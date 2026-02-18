@@ -37,16 +37,13 @@ O objetivo do script é:
 
 Instale as bibliotecas necessárias:
 
-```bash
 pip install numpy matplotlib scipy
 
 ## ▶️ Como executar
 
 No terminal, execute:
 
-```bash
 python main.py
-```
 
 O script exibirá no terminal os resultados do **teste de Shapiro-Wilk** e abrirá os gráficos correspondentes para cada conjunto de dados.
 
